@@ -42,8 +42,8 @@ Along the way there were a few roadblocks that can be investigated through the c
 
 ### Screenshots
 
-![Screenshot of Deployed Site 1](./Develop/assets/images/Webpage_Screenshot_1.PNG)
-![Screenshot of Deployed Site 2](./Develop/assets/images/Webpage_Screenshot_2.PNG)
+![Screenshot of Deployed Site 1](./assets/images/Webpage_Screenshot_1.PNG)
+![Screenshot of Deployed Site 2](./assets/images/Webpage_Screenshot_2.PNG)
 
 ### License
 
