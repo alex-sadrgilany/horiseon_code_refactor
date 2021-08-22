@@ -97,12 +97,12 @@ section.content article.services-content img {
     max-height: 200px;
 }
 
-div.text-left {
+div.image-left img {
     float: left;
     margin-right: 25px;
 }
 
-div.text-right {
+div.image-right img {
     float: right;
     margin-left: 25px;
 }
