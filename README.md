@@ -37,8 +37,9 @@ In taking on this challenge for the Horiseon team, multiple changes were made to
 
 Along the way there were a few roadblocks that can be investigated through the commit history. Some as pesky and frustrating as a missing closing tag. 
 
-### Deployed Webpage: 
+### Deployed Webpage
 
+https://asadg7.github.io/horiseon_code_refactor/
 
 ### Screenshots
 
