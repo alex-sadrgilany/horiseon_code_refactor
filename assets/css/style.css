@@ -19,6 +19,8 @@ p {
     font-size: 16px;
 }
 
+/* END Styles Applying to the Entire Site */
+
 /* Header Section */
 
 header {
@@ -36,6 +38,8 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
+/* END Header Section */
 
 /* Navigation Section */
 
@@ -56,6 +60,9 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/*END Navigation Section */
+
+/* Main Site Content */
 
 /* Main Top Image */
 
@@ -69,6 +76,8 @@ div.hero img {
     object-fit: cover;
 }
 
+/* END Main Top Image */
+
 /* Services Section */
 
 section.content {
@@ -76,6 +85,8 @@ section.content {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* END Services Section */
 
 /* Articles within Services Section */
 
@@ -107,6 +118,8 @@ div.image-right img {
     margin-left: 25px;
 }
 
+/* END Articles within Services Section */
+
 /* Benefits Aside */
 
 aside.benefits {
@@ -119,6 +132,8 @@ aside.benefits {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/* END Benefits Aside */
 
 /* Articles within Benefits Aside */
 
@@ -138,6 +153,10 @@ aside.benefits article.benefits-content img {
     max-width: 150px;
 }
 
+/* END Articles within Benefits Aside */
+
+/* END Main Site Content */
+
 /* Footer */
 
 footer {
@@ -150,3 +169,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* END Footer */
